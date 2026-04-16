@@ -4,7 +4,7 @@
 🎯 Passionate about offensive & defensive security | Automating detection with Python
 
 [![GitHub followers](https://img.shields.io/github/followers/alitalhahere?label=Follow&style=social)](https://github.com/alitalhahere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/imalitalha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/imalitalha)
 
 ---
 
@@ -48,7 +48,7 @@ AWS (basic) · Docker · Vagrant
 ### 📫 Let's connect
 
 - 🧠 [Write-ups & blog](#) (coming)
-- 💼 [LinkedIn](www.linkedin.com/in/imalitalha)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imalitalha)
 
 ---
 
