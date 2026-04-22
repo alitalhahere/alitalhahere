@@ -32,22 +32,9 @@ AWS (basic) · Docker · Vagrant
 
 ---
 
-### 📌 Pinned Projects (coming soon)
-
-| Project | Description |
-|---------|-------------|
-| [Network Anomaly Dashboard](#) | Real-time traffic monitor with Scapy + Flask |
-| [LogHunter](#) | CLI log parser for Apache/SSH/Windows events |
-| [CloudGuard](#) | Simple AWS misconfiguration scanner |
-| [Attack-Detection Lab](#) | Vagrant lab with custom Snort rules |
-
-> ⚡ *Repositories will be linked here as they go live.*
-
----
-
 ### 📫 Let's connect
 
-- 🧠 [Write-ups & blog](#) (coming)
+- 🧠 [Write-ups & blog](#) (coming soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/imalitalha)
 
 ---
