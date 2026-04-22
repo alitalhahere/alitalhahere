@@ -27,9 +27,6 @@
 **Security Tools:**  
 Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata
 
-**Cloud & Containers:**  
-AWS (basic) · Docker · Vagrant
-
 ---
 
 ### 📫 Let's connect
