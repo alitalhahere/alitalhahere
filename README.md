@@ -3,6 +3,8 @@
 **Certified Ethical Hacker (CEH) | Network Security Analyst**  
 🎯 Passionate about offensive & defensive security | Automating detection with Python
 
+*“A Guy who is growing with the flow.”*
+
 [![GitHub followers](https://img.shields.io/github/followers/alitalhahere?label=Follow&style=social)](https://github.com/alitalhahere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/imalitalha)
 
@@ -25,7 +27,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Security Tools:**  
-Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata
+Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata . IDS/IPS
 
 ---
 
@@ -35,5 +37,4 @@ Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata
 - 💼 [LinkedIn](https://www.linkedin.com/in/imalitalha)
 
 ---
-
 *“Know your network – defend your network.”*
