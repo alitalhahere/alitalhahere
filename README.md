@@ -27,7 +27,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Security Tools:**  
-Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata . IDS/IPS
+Wireshark · Nmap · Metasploit · Burp Suite · Snort · Suricata · IDS/IPS
 
 ---
 
