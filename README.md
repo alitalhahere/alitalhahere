@@ -3,7 +3,7 @@
 **Certified Ethical Hacker (CEH) | Network Security Analyst**  
 🎯 Passionate about offensive & defensive security | Automating detection with Python
 
-*“A Guy who is growing with the flow.”*
+*A Guy who is growing with the flow.*
 
 [![GitHub followers](https://img.shields.io/github/followers/alitalhahere?label=Follow&style=social)](https://github.com/alitalhahere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/imalitalha)
